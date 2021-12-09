@@ -1,4 +1,4 @@
-### Hi there 👋
+### don't click
 
 <!--
 **Oh-Klahoma/Oh-Klahoma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
